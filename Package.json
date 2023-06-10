@@ -1,6 +1,6 @@
 ﻿{
   "name": "com.brokenpixelgames.pixelgamelibrary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Pixel Game Library",
   "description": "Pre-built Game Library Package for Unity. This package \nonly includes code gathered across several projects and does not contain\nprefabs, gameObjects, serialized objects or other unity objects.\n",
   "author": {
