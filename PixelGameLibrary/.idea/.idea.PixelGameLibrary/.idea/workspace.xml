@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="428762ef-329c-4071-b7a4-c3ff9e05ccfb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PixelGameLibrary/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PixelGameLibrary/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/CameraMode.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/CameraMode/PixelCamera_Free.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/CameraMode/PixelCamera_Free.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/CameraMode/PixelCamera_None.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/CameraMode/PixelCamera_None.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/CameraMode/PixelCamera_Orbit.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/CameraMode/PixelCamera_Orbit.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/CameraSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/CameraSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/IPixelCameraController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/IPixelCameraController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/PixelCamera.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/PixelCamera.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/PixelCameraMode.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Camera/PixelCameraMode.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Setting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Setting/GameSettingBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Setting/GameSettingBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Setting/GameSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Setting/GameSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Setting/SettingProvider.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Setting/SettingProvider/GameSettingsProviderBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Runtime/Setting/SettingProvider/GameSettingsProviderBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.UnityAdditionalFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.dll.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.dll.mvfrm.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.rsp2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/Unity.EditorCoroutines.Editor.ref.dll_A9E741B2F4D7FC42.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/Unity.Performance.Profile-Analyzer.Editor.ref.dll_7F7FA9B9E03669D2.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/Unity.Rider.Editor.ref.dll_07D7D7B7487B1198.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/Unity.TestTools.CodeCoverage.Editor.ref.dll_BD81B1708A4B02E0.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.Editor.ref.dll_37E92434B2D8A6CF.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/Unity.Timeline.Editor.ref.dll_0DA365A2C678CBF9.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/Unity.VSCode.Editor.ref.dll_4366BA9A3B756B20.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.SettingsProvider.Editor.ref.dll_DB47A982A779F40F.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Shared.Editor.ref.dll_634EB3DA1CD7E5BE.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/Unity.VisualStudio.Editor.ref.dll_0788C6E0BDFBBC54.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/backend1.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg-inputdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg-inputdata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag.outputdata" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag.outputdata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag.payloads" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag.payloads" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag_derived" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag_derived" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag_fsmtime" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag_fsmtime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/backend2.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/backend2.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/buildprogram0.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/buildprogram0.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/fullprofile.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/fullprofile.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.log.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.log.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageManager/ProjectCache" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageManager/ProjectCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.md5" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/88872b21b1e746a7ad699974a2be8304944600/5a/f80459cb/SerializedObject.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2QulUSczo0yvqhRAq8I9v7BEft1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\malco\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\malco\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\malco\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.2.17f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath D:\BrokenPixel\PixelGameLibrary\PixelGameLibrary -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\BrokenPixel\PixelGameLibrary\PixelGameLibrary" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.2.17f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\BrokenPixel\PixelGameLibrary\PixelGameLibrary -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\BrokenPixel\PixelGameLibrary\PixelGameLibrary" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="396396">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="396396" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="428762ef-329c-4071-b7a4-c3ff9e05ccfb" name="Changes" comment="" />
+      <created>1686211362994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686211362994</updated>
+      <workItem from="1686211364268" duration="6361000" />
+      <workItem from="1686217807951" duration="50000" />
+      <workItem from="1686217880941" duration="184000" />
+      <workItem from="1686310998213" duration="4095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
